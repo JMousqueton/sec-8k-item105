@@ -52,8 +52,6 @@ _Requirements:_
 - `requests`
 - `beautifulsoup4`
 - `lxml`
-- `python-dotenv` (optional if you externalize config)
-
 
 ## Usage
 
