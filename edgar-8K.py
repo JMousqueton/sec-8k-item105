@@ -93,8 +93,6 @@ def extract_item_105_text(index_url):
     except Exception as e:
         print(f"Error extracting Item 1.05: {e}")
         return None
-cl
-
 
 def search_8k_105(days=3, max_results=100):
     keywords="\"Item 1.05\""
