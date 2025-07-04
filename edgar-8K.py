@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import re
 
 HEADERS = {
-    "User-Agent": "Ransomware.live/1.0 (contact: support@ransomware.live)",
+    "User-Agent": "YourName/1.0 (contact: your-email@example.com)",
     "Accept": "application/json"
 }
 
